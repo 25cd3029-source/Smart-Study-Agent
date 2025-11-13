@@ -1,7 +1,6 @@
-# 🚀 Smart Study Agent (Galaxy Edition)
+# 🚀 Smart Study Agent
 
-Smart Study Agent is an AI-powered learning platform that transforms your study materials into interactive flashcards, quizzes, summaries, and plans — now with a stunning animated galaxy background and visually enhanced UI!
-
+Smart Study Agent is an AI-powered learning platform that transforms your study materials into interactive flashcards, quizzes, summaries, and plans
 ---
 
 ## 🌟 Features
