@@ -101,7 +101,6 @@ smart-study-agent/
 - 📍 Blur fade-ins
 
 ### Design Elements
-- 🌌 Galaxy background (fixed)
 - 🎭 Frosted glass cards (backdrop-filter)
 - 🎨 Gradient buttons & text
 - 📱 Fully responsive
