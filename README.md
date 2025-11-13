@@ -20,8 +20,8 @@ Smart Study Agent is an AI-powered learning platform that transforms your study 
 - **Goal Tracker & Reminders**  
   Set study goals and get smart reminders for motivation and habit building.
 
-- **Beautiful Galaxy UI**  
-  Enjoy a unique animated galaxy background, frosted-glass cards, and fluid transitions everywhere.
+- **Beautiful UI**  
+  Enjoy a unique animated background, frosted-glass cards, and fluid transitions everywhere.
 
 - **Professional Animations**  
   12+ custom animations — gradient-shifting text, hover glows, scale/slide transitions, and much more.
